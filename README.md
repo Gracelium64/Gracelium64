@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on using my knowledge in Flutter for web development<br>🌱 I’m currently learning React, TypeScript, JavaScript, Node.js, HTML, CSS<br>💬 Ask me about commenting code and my strong opinion about it
+🔭 I’m currently working on using my knowledge in Flutter for web development<br>🌱 I’m currently learning React, TypeScript, JavaScript, Node.js, HTML, CSS<br>💬 A machine cannot feel rage;
+Therefor it shouldn’t be allowed to code;
 
 
 # 💻 Tech Stack:
