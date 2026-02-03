@@ -19,3 +19,4 @@ jobs:
           github-token: ${{ secrets.GITHUBTOKEN }}
           output-path: 'game.gif'
           strategy: 'random'
+
