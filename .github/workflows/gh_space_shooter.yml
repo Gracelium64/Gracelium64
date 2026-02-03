@@ -10,4 +10,4 @@ jobs:
       - name: GitHub Space Shooter
         uses: czl9707/gh-space-shooter@v1.0.1
         with:
-          github-token: ${{ secrets.GITHUBTOKEN }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
