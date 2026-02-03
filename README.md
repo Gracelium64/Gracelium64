@@ -1,10 +1,12 @@
 # 💫 About Me:
 
 🔭 I’m currently working on using my knowledge in Flutter for web development<br>🌱 I’m currently learning React, TypeScript, JavaScript, Node.js, HTML, CSS<br>⏻ A machine cannot feel rage;<br> Therefor it shouldn’t be allowed to code;
+<br>
 
-## <img src="assets/icons/adhd_icon.png" alt="Phone" width="24" /> Attention Deficit oH Dear
+## <img src="assets/icons/adhd_icon.png" alt="Phone" width="36" /> Attention Deficit oH Dear
 
 [![Download on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/attention-deficit-oh-dear/id6751799134)
+<br>
 
 # 💻 Tech Stack:
 
