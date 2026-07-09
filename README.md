@@ -1,10 +1,17 @@
-### 👋 Hi, I'm Grace
+<p align="center">
+  <a href="https://github.com/Gracelium64">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=4f46e5&fontSize=54&height=90&width=506&text=Hi%2C%20I'm%20Grace" alt="Hi, I&#39;m Grace" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=f778ba&center=true&vCenter=true&width=900&height=44&lines=A%20machine%20cannot%20feel%20rage%3B%20Therefor%20it%20shouldn%E2%80%99t%20be%20allowed%20to%20code%3B" alt="Typing headlines" />
+</p>
 
 📱 Shipped **Attention Deficit oH Dear** to the App Store, built end-to-end in Flutter<br>
-🔭 Currently building a full-stack TypeScript app — React, Node/Express, MongoDB, with real-time features over Socket.io<br>
-🤖 Building automation workflows with n8n, and experimenting with local LLM inference (llama.cpp, LM Studio) and image generation (ComfyUI)<br>
-🌱 Leveling up on backend architecture and API design<br>
-⏻ A machine cannot feel rage; Therefor it shouldn’t be allowed to code;
+🔭 Currently in prototype a full-stack TypeScript app — React, Node/Express, MongoDB, with real-time features over Socket.io<br>
+🔭 &nbsp;I'm currently working on **Taylor, a local LLM driven tool for document automation**  
+🌱 &nbsp;I'm currently learning **Deepening my understanding and skills in AI driven software development and workflows**  
 
 ### <img src="assets/icons/adhd_icon.png" alt="App icon" width="36" /> Attention Deficit oH Dear
 
