@@ -10,9 +10,9 @@
 
 📱 Shipped **Attention Deficit oH Dear** to the App Store, built end-to-end in Flutter<br>
 🔭 Currently in prototype a full-stack TypeScript app — React, Node/Express, MongoDB, with real-time features over Socket.io<br>
-🔭 &nbsp;I'm currently working on **Taylor, a local LLM driven tool for document automation**  
+🔭 &nbsp;I'm currently working on **Taylor**, a local LLM driven tool for document automation  
 🌱 &nbsp;Deepening my understanding and skills in AI driven software development and workflows  
-⚡ &nbsp;Fun fact: **I leave surprises in my code, that's how you can tell what I wrote and what the AI did**
+⚡ &nbsp;Fun fact: I leave surprises in my code, that's how you can tell what I wrote and what the AI did
 
 ### <img src="assets/icons/adhd_icon.png" alt="App icon" width="36" /> Attention Deficit oH Dear
 
