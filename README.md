@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=f778ba&center=true&vCenter=true&width=900&height=44&lines=A%20machine%20cannot%20feel%20rage%3B%20Therefor%20it%20shouldn%E2%80%99t%20be%20allowed%20to%20code%3B" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=f778ba&center=true&vCenter=true&width=900&height=44&lines=A%20machine%20cannot%20feel%20rage.%20Therefor%20it%20shouldn%E2%80%99t%20be%20allowed%20to%20code." alt="Typing headlines" />
 </p>
 
 📱 Shipped **Attention Deficit oH Dear** to the App Store, built end-to-end in Flutter<br>
