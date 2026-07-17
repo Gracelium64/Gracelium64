@@ -10,7 +10,8 @@
 🌱 &nbsp;Deepening my understanding and skills in AI driven software development and workflows  
 ⚡ &nbsp;Fun fact: I leave surprises in my code, that's how you can tell what I wrote and what the AI did
 <br>
-⏻  A machine cannot feel rage; Therefor it shouldn’t be allowed to code;
+<br>
+A machine cannot feel rage; Therefor it shouldn’t be allowed to code;
 
 ### <img src="assets/icons/adhd_icon.png" alt="App icon" width="36" /> Attention Deficit oH Dear
 
